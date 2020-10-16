@@ -3,7 +3,7 @@
 	body{
 		background-image: url(thank.jpg);
 		background-repeat: no-repeat;
-		background-size: cover
+		
 	}
 </style>
 
