@@ -99,7 +99,7 @@
 
       
       <div id="map-container-section" class="z-depth-1-half map-container-section mb-4" style="height: 200px">
-      >
+      
 		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110270.07458395642!2d-80.57460879400863!3d43.42554452035297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882bf48c03ee5105%3A0x9525f8e6df5f544b!2sKitchener%2C%20ON!5e0!3m2!1sen!2sca!4v1602804046939!5m2!1sen!2sca" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
       
