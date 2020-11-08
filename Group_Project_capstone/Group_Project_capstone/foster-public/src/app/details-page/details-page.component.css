@@ -1,0 +1,21 @@
+
+div{
+    background-color: #fadcac;
+}
+
+form{
+  width: 50%;
+  margin: 0 auto;
+   
+}
+
+button{
+  margin-right: 1.5em;
+    background-color: aqua;
+    margin-bottom: 1.5em;
+}
+label{
+    color: #158467;
+    font-weight: bold;
+}
+

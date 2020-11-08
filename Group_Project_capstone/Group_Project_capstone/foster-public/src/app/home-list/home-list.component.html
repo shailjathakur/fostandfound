@@ -1,0 +1,27 @@
+
+<section class='story-section' *ngFor="let story of stories">
+  <div class='story-card'>
+  
+    <div class='text story-text'>
+     
+      <h1 class='heading'>
+        {{story.name}}
+      </h1>
+      <div class='author'>
+        by {{story.author}}
+      </div>
+      
+         <span class='genre'>
+        {{story.type}}
+      </span>
+      <article class='description'>
+        {{story.description}}
+      </article>
+      <footer class='footer'>
+        
+      </footer>
+    </div>
+  </div>
+</section>
+
+

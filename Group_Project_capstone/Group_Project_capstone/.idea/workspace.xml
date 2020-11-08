@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a11d275d-b7d6-41c6-bd45-609111065201" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2037487557">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="html" value="18" />
+          <entry key="js" value="6" />
+          <entry key="json" value="4" />
+          <entry key="png" value="1" />
+          <entry key="ts" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="18" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="6" />
+          <entry key="TypeScript" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="95" />
+          <entry key="html" value="926" />
+          <entry key="js" value="67" />
+          <entry key="json" value="19" />
+          <entry key="ts" value="108" />
+          <entry key="txt" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="95" />
+          <entry key="HTML" value="926" />
+          <entry key="JSON" value="19" />
+          <entry key="JavaScript" value="67" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="TypeScript" value="108" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/story-public/src/app/details-page/details-page.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-782">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/story-public/src/app/details-page/details-page.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="67" column="15" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
+              <folding>
+                <element signature="e#2#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP_API/controllers/story.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1751">
+              <caret line="103" column="39" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/story-public/src/app/framework/framework.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/story-public/src/app/header/header.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="37" selection-start-column="37" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/story-public/src/app/home-list/home-list.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/story-public/src/app/homepage/homepage.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="27" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/story-public/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/story-public/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loc</find>
+      <find>Food</find>
+      <find>foodid</find>
+      <find>foods</find>
+      <find>food</find>
+      <find>contai</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>story</replace>
+      <replace>Story</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/story-public" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/APP_API/MODELS/food.js" />
+        <option value="$PROJECT_DIR$/food-public/e2e/src/app.e2e-spec.ts" />
+        <option value="$PROJECT_DIR$/food-public/src/karma.conf.js" />
+        <option value="$PROJECT_DIR$/food-public/build/styles.js" />
+        <option value="$PROJECT_DIR$/food-public/build/es2015-polyfills.js" />
+        <option value="$PROJECT_DIR$/food-public/build/main.js" />
+        <option value="$PROJECT_DIR$/food-public/build/polyfills.js" />
+        <option value="$PROJECT_DIR$/story-public/src/app/story.spec.ts" />
+        <option value="$PROJECT_DIR$/story-public/build/polyfills.js" />
+        <option value="$PROJECT_DIR$/story-public/src/app/story-service.service.spec.ts" />
+        <option value="$PROJECT_DIR$/APP_API/routes/foods.js" />
+        <option value="$PROJECT_DIR$/story-public/package.json" />
+        <option value="$PROJECT_DIR$/story-public/package-lock.json" />
+        <option value="$PROJECT_DIR$/APP_API/routes/stories.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/story-public/src/app/homepage/homepage.component.ts" />
+        <option value="$PROJECT_DIR$/story-public/src/app/home-list/home-list.component.ts" />
+        <option value="$PROJECT_DIR$/story-public/src/app/updatestory/updatestory.component.ts" />
+        <option value="$PROJECT_DIR$/story-public/src/app/update/update.component.html" />
+        <option value="$PROJECT_DIR$/story-public/src/app/home-list/home-list.component.css" />
+        <option value="$PROJECT_DIR$/story-public/src/app/homepage/homepage.component.html" />
+        <option value="$PROJECT_DIR$/story-public/src/app/homepage/homepage.component.css" />
+        <option value="$PROJECT_DIR$/story-public/src/app/create/create.component.css" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/story-public/src/app/header/header.component.html" />
+        <option value="$PROJECT_DIR$/story-public/src/app/header/header.component.css" />
+        <option value="$PROJECT_DIR$/story-public/src/app/details-page/details-page.component.css" />
+        <option value="$PROJECT_DIR$/story-public/src/app/update/update.component.ts" />
+        <option value="$PROJECT_DIR$/story-public/src/app/updatestory/updatestory.component.html" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/APP_API/MODELS/db.js" />
+        <option value="$PROJECT_DIR$/story-public/src/app/framework/framework.component.css" />
+        <option value="$PROJECT_DIR$/story-public/src/app/home-list/home-list.component.html" />
+        <option value="$PROJECT_DIR$/story-public/src/app/story.ts" />
+        <option value="$PROJECT_DIR$/APP_API/MODELS/story.js" />
+        <option value="$PROJECT_DIR$/APP_API/controllers/story.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/story-public/src/app/story-service.service.ts" />
+        <option value="$PROJECT_DIR$/story-public/src/app/details-page/details-page.component.html" />
+        <option value="$PROJECT_DIR$/story-public/src/app/create/create.component.html" />
+        <option value="$PROJECT_DIR$/story-public/src/app/framework/framework.component.html" />
+        <option value="$PROJECT_DIR$/story-public/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/story-public/src/app/create/create.component.ts" />
+        <option value="$PROJECT_DIR$/story-public/src/app/about/contactus/contactus.component.ts" />
+        <option value="$PROJECT_DIR$/story-public/src/app/about/contactus/contactus.component.html" />
+        <option value="$PROJECT_DIR$/story-public/src/app/about/contactus/contactus.component.css" />
+        <option value="$PROJECT_DIR$/story-public/src/app/about/about.component.html" />
+        <option value="$PROJECT_DIR$/story-public/src/app/about/about.component.css" />
+        <option value="$PROJECT_DIR$/story-public/src/app/details-page/details-page.component.ts" />
+        <option value="$PROJECT_DIR$/story-public/src/styles.css" />
+        <option value="$PROJECT_DIR$/story-public/src/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/story-public/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/story-public/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="432" />
+    <option name="y" value="210" />
+    <option name="width" value="1189" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="APP_API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="APP_API" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="APP_API" type="462c0819:PsiDirectoryNode" />
+              <item name="MODELS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="details-page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="home-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="story-public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADLedgeStorystore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sandhustoriestore" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.4.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="C:/Rsharma3855/Downloads/Sandhustoriestore/story-public/node_modules/tslint" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\Sasmaldahi6373\Downloads\Sandhustoriestore\Sandhustoriestore\story-public\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sasmaldahi6373\Downloads\Sandhustoriestore\Sandhustoriestore\story-public\src\app" />
+      <recent name="C:\Users\Ggagandeepkaur6052\WebstormProjects\INCLASSTASK\APP_SERVER" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sasmaldahi6373\Downloads\Sandhustoriestore\Sandhustoriestore\public\images" />
+      <recent name="C:\Users\Rsharma3855\Downloads\Weberstoriestore\story-public\src\app" />
+      <recent name="C:\Users\Sasmaldahi6373\Downloads\task12 (2)\task12\task11\task10\Task9\INCLASSTASK\story-public\src" />
+      <recent name="C:\Users\Sasmaldahi6373\Downloads\task12 (2)\task12\task11\task10\Task9\INCLASSTASK\public\images" />
+      <recent name="C:\Users\Sasmaldahi6373\Downloads\task12 (2)\task12\task11\task10\Task9\INCLASSTASK\public\stylesheets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="start (1)" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/story-public/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.bin\www" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.start (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.start (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a11d275d-b7d6-41c6-bd45-609111065201" name="Default Changelist" comment="" />
+      <created>1557964170794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557964170794</updated>
+      <workItem from="1557964172903" duration="1999000" />
+      <workItem from="1558562585859" duration="3511000" />
+      <workItem from="1558566590894" duration="141000" />
+      <workItem from="1558566759838" duration="164000" />
+      <workItem from="1559170352938" duration="2657000" />
+      <workItem from="1559767859337" duration="565000" />
+      <workItem from="1559768451728" duration="2202000" />
+      <workItem from="1559774665685" duration="392000" />
+      <workItem from="1560379148336" duration="2843000" />
+      <workItem from="1560976721436" duration="1160000" />
+      <workItem from="1560982150088" duration="3017000" />
+      <workItem from="1561588411518" duration="4976000" />
+      <workItem from="1561594167283" duration="1163000" />
+      <workItem from="1562792863454" duration="7280000" />
+      <workItem from="1563314416144" duration="3424000" />
+      <workItem from="1563398527068" duration="6675000" />
+      <workItem from="1563919617460" duration="5954000" />
+      <workItem from="1564002117586" duration="5067000" />
+      <workItem from="1564603338824" duration="11086000" />
+      <workItem from="1564689858049" duration="5653000" />
+      <workItem from="1564697285481" duration="11359000" />
+      <workItem from="1564953611104" duration="10994000" />
+      <workItem from="1565134788526" duration="184000" />
+      <workItem from="1565136820244" duration="5954000" />
+      <workItem from="1565315428384" duration="105000" />
+      <workItem from="1565316889662" duration="8872000" />
+      <workItem from="1565360521906" duration="5144000" />
+      <workItem from="1565367860063" duration="130000" />
+      <workItem from="1565368004775" duration="12949000" />
+      <workItem from="1565382186317" duration="38000" />
+      <workItem from="1565382232632" duration="787000" />
+      <workItem from="1565588346027" duration="4932000" />
+      <workItem from="1565593914491" duration="345000" />
+      <workItem from="1565713414267" duration="5613000" />
+      <workItem from="1565719158781" duration="10000" />
+      <workItem from="1565719698033" duration="5614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="147827000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.16491044" />
+      <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.17175975" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49894625" weight="0.3347779" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50105375" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33694476" />
+      <window_info anchor="bottom" id="TypeScript" order="11" sideWeight="0.49947312" weight="0.32394367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/food-public" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/story-public/e2e/src/app.po.ts" />
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/update-story.ts" />
+    <entry file="file://$PROJECT_DIR$/story-public/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/story.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/story-service.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/updatestory/updatestory.component.ts" />
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/details-page/details-page.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/homepage/homepage.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/home-list/home-list.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/create/create.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/header/header.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/details-page/details-page.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/about/help.jpg" />
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/about/about.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/framework/framework.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/homepage/homepage.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/update/update.component.html" />
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/update/update.component.ts" />
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/updatestory/updatestory.component.html" />
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="95" selection-start-line="57" selection-start-column="95" selection-end-line="57" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP_API/MODELS/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/story.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/framework/framework.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP_API/routes/stories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/story.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP_API/MODELS/story.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/home-list/home-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/story-service.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/create/create.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/contactus/contactus.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/contactus/contactus.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="43" column="52" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/contactus/contactus.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/about/about.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="12" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/about/about.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="274" column="31" selection-start-line="274" selection-start-column="31" selection-end-line="274" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/create/create.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/details-page/details-page.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-782">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/details-page/details-page.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="67" column="15" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
+          <folding>
+            <element signature="e#2#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/homepage/homepage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/framework/framework.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP_API/controllers/story.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="103" column="39" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story-public/src/app/home-list/home-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

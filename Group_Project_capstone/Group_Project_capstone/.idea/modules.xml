@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ADLedgeStorystore.iml" filepath="$PROJECT_DIR$/.idea/ADLedgeStorystore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WeberStoryStore.iml" filepath="$PROJECT_DIR$/.idea/WeberStoryStore.iml" />
+    </modules>
+  </component>
+</project>

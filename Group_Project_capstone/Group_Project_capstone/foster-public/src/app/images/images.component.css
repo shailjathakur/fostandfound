@@ -1,0 +1,21 @@
+
+div{
+
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+}  
+
+img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto ;
+        padding-left: 10em;
+        
+        
+}
+
+body{
+background-color: #f5b461;
+}

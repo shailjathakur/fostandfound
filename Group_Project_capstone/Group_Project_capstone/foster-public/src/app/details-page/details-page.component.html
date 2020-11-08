@@ -1,0 +1,53 @@
+
+
+<br>
+
+<br>
+<form (ngSubmit)="updatestory(newStory)">
+  <div class="form-row">
+    <div class="col-md-6 mb-3 md-form">
+      <label for="name">Name:</label>
+      <input [(ngModel)]="pageContent.header.title" id="name"   type="text" class="form-control" placeholder=" Story Name" name="name" required="required">
+    </div>
+    <br>
+    <div class="col-md-6 mb-3 md-form">
+      <label for="type">Type:</label>&nbsp;&nbsp;&nbsp;
+      <input [(ngModel)]="pageContent.header.type" type="text" class="form-control" id="type" name="type" placeholder="Genre" required="required">
+      <br>
+    </div>
+  </div>
+    <br>
+<div class="form-row">
+    <div class="col-md-6 mb-3 md-form">
+      <label for="author">Author:</label>&nbsp;&nbsp;&nbsp;
+      <input [(ngModel)]="pageContent.header.author" type="text" class="form-control" id="author" name="author" placeholder="Author" required="required">
+      <br>
+    </div>
+    <br>
+    
+
+  </div>
+  <div class="form-row">
+    <div class="col-md-12 mb-6 md-form">
+      <label for="author">Description:</label>&nbsp;&nbsp;&nbsp;
+      <input [(ngModel)]="pageContent.header.description" type="text" class="form-control" id="description" name="description" placeholder=" Description" required="required">
+      <br>
+    </div>
+
+  </div>
+  
+  <br>
+  <button type="submit" class="btn" style="background-color: #a4b494" >UPDATE</button>
+  <button class="btn" (click)="deletestory(newStory._id)" style="background-color: #519872" >DELETE</button>
+
+
+</form>
+
+
+
+
+
+
+
+
+
