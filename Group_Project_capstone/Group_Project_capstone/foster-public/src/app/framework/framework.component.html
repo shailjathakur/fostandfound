@@ -1,21 +1,31 @@
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <body>
 
   <!--Navbar -->
   <div class="topnav nav-c">
-      
+
     <div>
   
-    <img src="assets/Logo.jpg" alt="Logo" height="125px" width="125px">
-               
-    </div>
-    <a class="active" routerLink="">HOME</a>
+      <img src="assets/Logo.jpg" alt="Logo" height="125px" width="125px">
+                 
+      </div>
+      <a class="active" routerLink="">HOME</a>
       <a routerLink="about">ABOUT</a>
+    <div class="subnav">
+      <button class="subnavbtn">Stories <i class="fa fa-caret-down"></i></button>
+      <div class="subnav-content">
+        <a routerLink="galler">Story section</a>
+        <a routerLink="create">CREATE</a>
+        <a routerLink="details-page">Details</a>
+        
+      </div>
+    </div> 
+   
     <a routerLink="contact">CONTACT US</a>
-    <a routerLink="create">CREATE</a>
-    <a routerLink="galler">STORIES</a>
-    <a routerLink="images">IMAGES</a>
-    
-    
+    <a routerLink="images">Gallery</a>
   </div>
   
   
