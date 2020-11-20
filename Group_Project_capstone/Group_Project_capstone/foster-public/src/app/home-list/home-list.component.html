@@ -8,7 +8,7 @@
         {{story.name}}
       </h1>
       <div class='author'>
-        by {{story.author}}
+        By {{story.author}}
       </div>
       
          <span class='genre'>
@@ -18,7 +18,9 @@
         {{story.description}}
       </article>
       <footer class='footer'>
-        
+        <a class='button' routerLink="story/{{story._id}}">
+          Details
+        </a>
       </footer>
     </div>
   </div>
