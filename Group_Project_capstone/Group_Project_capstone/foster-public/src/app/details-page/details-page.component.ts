@@ -43,7 +43,7 @@ export class DetailsPageComponent implements OnInit {
       .subscribe((newStory:Story) => {
         this.newStory = newStory;
         this.pageContent.header.id = newStory._id;
-        this.pageContent.header.title = newStory.name;
+        this.pageContent.header.name = newStory.name;
         this.pageContent.header.type = newStory.type;
         
         this.pageContent.header.author = newStory.author;
@@ -57,7 +57,7 @@ export class DetailsPageComponent implements OnInit {
   }
   public updatestory(newStory): void {
     //newStory._id=this.pageContent.header.id;
-    newStory.name=this.pageContent.header.title;
+    newStory.name=this.pageContent.header.name;
     newStory.type=this.pageContent.header.type;
     newStory.author=this.pageContent.header.author;
     newStory.description=this.pageContent.header.description;
@@ -78,7 +78,7 @@ export class DetailsPageComponent implements OnInit {
   pageContent = {
     header : {
       id:'',
-      title:'',
+      name:'',
       body:'',
       type:'',
      

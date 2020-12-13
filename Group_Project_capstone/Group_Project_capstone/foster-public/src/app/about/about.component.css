@@ -145,7 +145,7 @@
 }
 
 .image-aboutus-banner {
-  background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://www.torontocas.ca/sites/torontocas/files/styles/header_1400x380_/public/2018-12/fp_welcomepage_header_0.png?itok=TxPH9FiX");
+  background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://www.torontocas.ca/sites/torontocas/files/styles/header_1400x380_/public/2018-12/fp_welcomepage_header_0.png?itok=TxPH9FiX" );
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;

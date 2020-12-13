@@ -17,7 +17,8 @@
   #myFooter ul {
     list-style-type: none;
     padding-left: 0;
-    line-height: 1.8;
+    line-height: 1.7;
+
     text-decoration: underline;
   }
   
@@ -93,6 +94,6 @@
     flex: 0 0 auto;
     -webkit-flex: 0 0 auto;
   }
-  :focus{
-    outline:  3px solid red;
-  }
+  :focus {
+    outline: 3px solid red;   
+}

@@ -1,12 +1,47 @@
+/* Container holding the image and the text */
+
 body{
-    background:url(https://www.itl.cat/pngfile/big/224-2246862_aesthetic-pastel-wallpaper-hd.jpg)
+    background: url(https://wallpaperaccess.com/full/731628.jpg);
 }
-
-p{
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  button{
+    position: absolute;
     text-align: center;
-    font-weight: bold;
-    font-size: larger;
-    color: #ec524b;
-    margin-top: 1em;
+    bottom: 20em;
+    left:  25em;
+    transform: translate(-50%,-50%);
+    background-color: #d2d3c9;
+    color: black;
+    border: 2px solid #6a097d;
+    border-radius: 12px;
+  
+  }
+  .button:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
 
-}
+  .welcome{
+      text-align: center;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-size: 2em;
+     
+  }
+
+  .footer{
+    background: url(https://wallpaperaccess.com/full/731628.jpg);
+  }
+  

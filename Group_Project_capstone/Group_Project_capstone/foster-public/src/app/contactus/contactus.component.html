@@ -40,7 +40,7 @@
         <div class="form-group">
           <label class="control-label col-sm-2" for="email">Email:</label>
           <div class="col-sm-10">
-            <input type="email" #emailRef="ngModel" class="form-control" id="email" placeholder="Enter email" name="email"  pattern="[a-z0-9._% -] @[a-z0-9.-] \.[a-z]{2,3}$" ngModel required/>
+            <input type="email" #emailRef="ngModel" class="form-control" id="email" placeholder="Enter email" name="email"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" ngModel required/>
             <div *ngIf="emailRef.errors && (emailRef.dirty || emailRef.touched)" class="alert alert-danger">
               <div [hidden]="!emailRef.errors.pattern">
                 Please enter a valid email.

@@ -12,23 +12,45 @@
       <img src="assets/Logo.jpg" alt="Logo" height="125px" width="125px">
                  
       </div>
-      <a class="active" routerLink="">HOME</a>
+      <a routerLink="galler">HOME</a>
       <a routerLink="about">ABOUT</a>
     <div class="subnav">
-      <button class="subnavbtn">Stories <i class="fa fa-caret-down"></i></button>
+      <button class="subnavbtn">STORIES<i class="fa fa-caret-down"></i></button>
       <div class="subnav-content">
-        <a routerLink="galler">Story section</a>
+        <a class="active" routerLink="">STORY SECTION</a>
+        
         <a routerLink="create">CREATE</a>
-        <a routerLink="details-page">Details</a>
+        
         
       </div>
     </div> 
+    <div class="subnav">
+      <button class="subnavbtn">Get Involved<i class="fa fa-caret-down"></i></button>
+      <div class="subnav-content">
+        <a class="active" routerLink="">Donate</a>
+        <a class="active" routerLink="">Fundraiser</a>
+        <a class="active" routerLink="">Campaign</a>
+        <a class="active" routerLink="">Volunteer</a>
+        
+        
+       
+        
+        
+      </div>
+    </div> 
+    
    
-    <a routerLink="contact">CONTACT US</a>
-    <a routerLink="images">Gallery</a>
+    <a routerLink="contact">Contact us</a>
+    <a routerLink="images">GALLERY</a>
+    <div class="search-container">
+      <form action="/action_page.php">
+        <input type="text" placeholder="Search.." name="search">
+        <button type="submit"><i class="fa fa-search"></i></button>
+      </form>
+    </div>
   </div>
   
-  
+ 
   
   <!--/.Navbar -->
   

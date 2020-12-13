@@ -18,6 +18,7 @@ import { ContactusComponent } from './contactus/contactus.component';
 import { GallerComponent } from './galler/galler.component';
 import { ImagesComponent } from './images/images.component';
 
+
 @NgModule({
   declarations: [
     HomeListComponent,
@@ -30,6 +31,7 @@ import { ImagesComponent } from './images/images.component';
     ContactusComponent,
     GallerComponent,
     ImagesComponent,
+   
    // StoryDataService
 
   ],
@@ -59,11 +61,11 @@ import { ImagesComponent } from './images/images.component';
         component:CreateComponent
       },
       {
-        path:'book/:bookid',
+        path:'story/:storyid',
         component:DetailsPageComponent
       },
       {
-        path:'deleteStory/:bookid',
+        path:'deleteStory/:storyid',
         component:StoryDataService
       },
       {
