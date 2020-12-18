@@ -38,3 +38,16 @@ body{
 .contact-form button:focus{
   box-shadow:none;
 }
+ 
+input[type=number]{
+  
+  width: 25%;
+  height: 3em;
+  margin-left: 1em;
+  font-size: 18px;
+}
+
+.paypal-checkout-btn{
+margin-top: 2em;
+height:3em;
+}

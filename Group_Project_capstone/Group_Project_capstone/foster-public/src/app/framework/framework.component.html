@@ -4,53 +4,54 @@
 
 <body>
 
-  <!--Navbar -->
-  <div class="topnav nav-c">
-
-    <div>
-  
-      <img src="assets/Logo.jpg" alt="Logo" height="125px" width="125px">
-                 
-      </div>
-      <a routerLink="galler">HOME</a>
-      <a routerLink="about">ABOUT</a>
-    <div class="subnav">
-      <button class="subnavbtn">STORIES<i class="fa fa-caret-down"></i></button>
-      <div class="subnav-content">
-        <a class="active" routerLink="">STORY SECTION</a>
-        
-        <a routerLink="create">CREATE</a>
-        
-        
-      </div>
-    </div> 
-    <div class="subnav">
-      <button class="subnavbtn">Get Involved<i class="fa fa-caret-down"></i></button>
-      <div class="subnav-content">
-        <a class="active" routerLink="">Donate</a>
-        <a class="active" routerLink="">Fundraiser</a>
-        <a class="active" routerLink="">Campaign</a>
-        <a class="active" routerLink="">Volunteer</a>
-        
-        
-       
-        
-        
-      </div>
-    </div> 
-    
+  <nav class="navbar navbar-expand-lg navbar-light bg-warning">
+    <a href="galler">
+    <img src="assets/Logo.jpg"  alt="Logo" height="125px" width="125px"></a>
+    <a class="navbar-brand" href="galler">Fost&Found</a>
    
-    <a routerLink="contact">Contact us</a>
-    <a routerLink="images">GALLERY</a>
-    <div class="search-container">
-      <form action="/action_page.php">
-        <input type="text" placeholder="Search.." name="search">
-        <button type="submit"><i class="fa fa-search"></i></button>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="galler">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="services">Services</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact">Donate</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Story
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="#">Story Section</a>
+            <a class="dropdown-item" href="create">Create</a>
+            
+          </div>
+
+
+
+
+
+
+          
+        </li>
+        
+      </ul>
+      <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
       </form>
     </div>
-  </div>
-  
- 
+  </nav>
   
   <!--/.Navbar -->
   

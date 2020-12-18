@@ -1,4 +1,22 @@
 
+.header-top {
+  padding: 10px 0;
+  background: #ff5722;
+}
+.header-top .fh5co-link a {
+  margin-left: 10px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.7);
+}
+.header-top .fh5co-link a:first-child {
+  margin-left: 0;
+}
+.header-top .fh5co-link a:hover {
+  color: white !important;
+}
+
+
+
 .topnav {
   background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://png.pngtree.com/thumb_back/fw800/back_our/20190617/ourmid/pngtree-happy-family-poster-background-material-image_127948.jpg");
     color: white;
@@ -90,4 +108,14 @@ img{
   margin-right: 3em;
    margin-left: 2em;
     
+}
+.navbar-custom { 
+  background-color: lightgreen; 
+}
+
+.navbar a{
+  color:black;
+  font-size: 18px;
+  font-weight: bolder;
+  
 }

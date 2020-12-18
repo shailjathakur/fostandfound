@@ -1,22 +1,16 @@
-import { Component, OnInit,AfterViewChecked  } from '@angular/core';
-import {Story} from "../story";
-import {Router} from "@angular/router";
-import {FormGroup,FormControl} from '@angular/forms';
- 
+import { Component,AfterViewChecked } from '@angular/core';
 import { ActionSequence } from 'protractor';
 declare let paypal: any;
 
 
-
 @Component({
-  selector: 'app-contactus',
-  templateUrl: './contactus.component.html',
-  styleUrls: ['./contactus.component.css']
+  selector: 'app-payment',
+  templateUrl: './payment.component.html',
+  styleUrls: ['./payment.component.css']
 })
-export class ContactusComponent implements AfterViewChecked {
- 
-
-  addScript: boolean =false;
+export class PaymentComponent implements AfterViewChecked  {
+  
+    addScript: boolean =false;
     paypalLoad: boolean = true;
     finalAmount: number = 1;
     paypalConfig ={
@@ -63,4 +57,5 @@ export class ContactusComponent implements AfterViewChecked {
        )
      }
   }
+
 
